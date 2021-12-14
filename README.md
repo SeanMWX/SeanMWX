@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeanMWX
+- 👋 Hi, I’m Xinhai Zou @SeanMWX
 - 👀 I’m interested in both Materials Science & Computer Science
 - 🌱 I’m currently learning both Materials Science & Comptuer Science
 - 💞️ I’m looking to collaborate on Comptuer Security
